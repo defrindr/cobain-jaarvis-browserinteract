@@ -1,0 +1,22 @@
+{
+  "name": "speechrecognitionwithvanillajs",
+  "version": "1.0.0",
+  "description": "simple jarvis",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "defri indra mahardika",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/defrindr"
+  },
+  "keywords": [
+    "jarvis"
+  ],
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
